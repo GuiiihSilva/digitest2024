@@ -1,11 +1,11 @@
-# README #
+# README #x
 
 This document contains instructions to how to make your test. If you have any doubt, mail us at recrutamento@digiage.com.br.  
 
 ### What is this repository for? ###
 
 * This repository contains some code. It might be compiling or not :)
-
+* dados aws para conferir gui.hshe@gmail.com Gui180199@
 ### What it this test for and what should I do? ###
 
 * You'll find two tasks in this project, both are related to REST APIs.
